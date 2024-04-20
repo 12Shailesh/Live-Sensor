@@ -1,4 +1,3 @@
-# Machine-Learning-Projects
-This is my first git repo
+# Live Sensor
 <br>
-Author - Shailesh
+I want to create sensor fault sensor project
